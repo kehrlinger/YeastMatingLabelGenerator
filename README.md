@@ -1,2 +1,2 @@
 # YeastMatingLabelGenerator
-Generates labels for glycerolstock-eppis in a spreadsheet
+Generates labels for glycerolstock-eppis of Y2H matings in a spreadsheet.
